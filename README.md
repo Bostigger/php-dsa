@@ -28,9 +28,9 @@ In this section, the focus is on algorithmic techniques and problem solutions, c
 - Pattern Searching
 
 ## Usage
-Each data structure and algorithm is contained in its own directory, complete with a README that provides an overview, complexity analysis, and usage examples.
+Each data structure and algorithm is contained in its own directory
 
-To use this repository, clone it locally and navigate to the directory of the data structure or algorithm you're interested in. Sample code can be run directly if [Programming Language] is installed on your system.
+To use this repository, clone it locally and navigate to the directory of the data structure or algorithm you're interested in. Sample code can be run directly if [PHP] is installed on your system.
 
 ```bash
 git clone git@github.com:Bostigger/php-dsa.git
