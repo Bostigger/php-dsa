@@ -8,7 +8,7 @@
  */
 
 
-function containsDuplicates(array $nums) {
+ function containsDuplicates(array $nums) {
     // Initialize an associative array to track encountered numbers.
     $trackNums = [];
 
