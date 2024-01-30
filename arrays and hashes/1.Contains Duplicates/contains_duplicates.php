@@ -41,5 +41,4 @@ if (containsDuplicates($nums)) {
 } else {
     // If the function returns false, there are no duplicates.
     echo "False - No Duplicates found\n";
-
-    echo "# php-dsa" >> README.md
+}
