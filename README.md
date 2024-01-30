@@ -33,5 +33,5 @@ Each data structure and algorithm is contained in its own directory, complete wi
 To use this repository, clone it locally and navigate to the directory of the data structure or algorithm you're interested in. Sample code can be run directly if [Programming Language] is installed on your system.
 
 ```bash
-git clone https://github.com/yourusername/data-structures-and-algorithms.git
-cd data-structures-and-algorithms/[specific-data-structure-or-algorithm]
+git clone git@github.com:Bostigger/php-dsa.git
+cd php-dsa/[specific-data-structure-or-algorithm]
