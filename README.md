@@ -1,7 +1,7 @@
 # PHP Data Structures and Algorithms Repository
 
 ## Introduction
-Welcome to my Data Structures and Algorithms Repository! This repository is a comprehensive collection of various data structures and algorithms implemented in [Programming Language]. It serves as a personal reference and an educational resource for anyone interested in learning more about the fundamental building blocks of computer science and software engineering.
+Welcome to my Data Structures and Algorithms Repository! This repository is a comprehensive collection of various data structures and algorithms implemented in [PHP]. It serves as a personal reference and an educational resource for anyone interested in learning more about the fundamental building blocks of computer science and software engineering.
 
 ## Contents
 This repository is organized into two main sections: Data Structures and Algorithms.
